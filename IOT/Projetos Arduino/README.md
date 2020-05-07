@@ -25,14 +25,14 @@ LINK
 
 O circuito possui um **led** acoplado à saída digital 13 que irá acender assim que o **botão**, acoplado à entrada digital 2, é acionado mecanicamente.
 
-LINK
+![arduino led botao](https://user-images.githubusercontent.com/62301235/81251062-d1a2f300-8ff8-11ea-9ab5-073bcbd5d2d1.PNG)
 ---
 
 ### Controle da frequência de acionamento do Led
 
 O circuito possui um **led** acoplado à saída digital 13 que irá acender de acordo com o acionamento do **potenciômetro** acoplado à entrada analógica A0.
 
-LINK
+![arduino controle frequencia](https://user-images.githubusercontent.com/62301235/81250803-3f9aea80-8ff8-11ea-84c2-2335ee2c76b6.PNG)
 ---
 
 ### Acionamento de Leds em sequência
