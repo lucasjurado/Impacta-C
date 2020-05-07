@@ -13,3 +13,35 @@ O circuito possui um **piezo** acomplado à saída digital 3 que irá soar músi
 
 ![arduino piezo](https://user-images.githubusercontent.com/62301235/81220234-5bca6780-8fb7-11ea-9993-0a42a4a89d59.PNG)
 ---
+
+### Visor de sete segmentos
+
+O circuito possui um **visor de sete segmentos** acoplado a sete saídas digitais (0 - 6). O script leva o visor a acender seus segmentos em sequência, com um intervalo de 1000 milissegundos.
+
+LINK
+---
+
+### Led acesso
+
+O circuito possui um **led** acoplado à saída digital 13 que irá acender assim que o **botão**, acoplado à entrada digital 2, é acionado mecanicamente.
+
+LINK
+---
+
+### Controle da frequência de acionamento do Led
+
+O circuito possui um **led** acoplado à saída digital 13 que irá acender de acordo com o acionamento do **potenciômetro** acoplado à entrada analógica A0.
+
+LINK
+---
+
+### Acionamento de Leds em sequência
+
+O circuito possui três **leds** acoplados à saídas digitais 0, 1 e 2. O acionamento será realizado em sequência, com um intervalo de 2000 milissegundos.
+
+LINK
+---
+
+
+
+
