@@ -39,7 +39,7 @@ LINK
 
 O circuito possui três **leds** acoplados à saídas digitais 0, 1 e 2. O acionamento será realizado em sequência, com um intervalo de 2000 milissegundos.
 
-LINK
+![leds em sequencia](https://user-images.githubusercontent.com/62301235/81250504-8805d880-8ff7-11ea-9c28-68cfd18a8373.PNG)
 ---
 
 
