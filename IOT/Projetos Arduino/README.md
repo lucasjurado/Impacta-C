@@ -18,7 +18,7 @@ O circuito possui um **piezo** acomplado à saída digital 3 que irá soar músi
 
 O circuito possui um **visor de sete segmentos** acoplado a sete saídas digitais (0 - 6). O script leva o visor a acender seus segmentos em sequência, com um intervalo de 1000 milissegundos.
 
-LINK
+![arduino 7seg](https://user-images.githubusercontent.com/62301235/81251305-54c44900-8ff9-11ea-9297-15bb1e7e320b.PNG)
 ---
 
 ### Led acesso
@@ -41,7 +41,3 @@ O circuito possui três **leds** acoplados à saídas digitais 0, 1 e 2. O acion
 
 ![leds em sequencia](https://user-images.githubusercontent.com/62301235/81250504-8805d880-8ff7-11ea-9c28-68cfd18a8373.PNG)
 ---
-
-
-
-
